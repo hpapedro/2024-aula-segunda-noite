@@ -1,6 +1,9 @@
-##
+### REQUISICAO PARA A RAIZ DO PRODUTO
 GET http://localhost:5127
 
 
-###
-GET http://localhost:5127/segundafuncionalidade
+### LISTAR PRODUTOS
+GET http://localhost:5127/api/produto/listar
+
+### CADASTRAR PRODUTO
+POST http://localhost:5127/api/produto/cadastrar/flamengo
