@@ -44,3 +44,6 @@ for (int i = 0; i < vetor.Length; i++)
 {
     Console.Write(vetor[i] + " ");
 }
+
+
+//O gabriel ta doente
